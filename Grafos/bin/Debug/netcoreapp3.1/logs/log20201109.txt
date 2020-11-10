@@ -1,0 +1,13 @@
+2020-11-09 20:26:19.460 -03:00 [INF] Application Started
+2020-11-09 20:29:00.248 -03:00 [INF] Application Started
+2020-11-09 20:45:03.468 -03:00 [INF] Application Started
+2020-11-09 20:46:47.523 -03:00 [INF] Application Started
+2020-11-09 20:48:16.081 -03:00 [INF] Application Started
+2020-11-09 20:57:30.186 -03:00 [INF] Application Started
+2020-11-09 21:00:27.848 -03:00 [INF] Application Started
+2020-11-09 21:00:53.338 -03:00 [INF] Application Started
+2020-11-09 21:25:22.155 -03:00 [INF] Application Started
+2020-11-09 21:28:58.475 -03:00 [INF] Application Started
+2020-11-09 21:30:00.321 -03:00 [INF] Application Started
+2020-11-09 21:30:11.013 -03:00 [INF] Application Started
+2020-11-09 21:32:46.847 -03:00 [INF] Application Started
